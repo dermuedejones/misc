@@ -33,7 +33,7 @@ fi
 
 alias pacman='pacman-color'
 alias ls='ls  --color=tty'
-
+eval $(dircolors -b /etc/DIR_COLORS)
 #PS1='[\u@\h \W]\$ '
 PS1="\[\e[0;37m\]┌─[${root}\u\[\e[0;37m\]][\[\e[0;32m\]\w\[\e[0;37m\]]\n\[\e[0;37m\]└──→\[\e[0m\]"
 PS2='> '
