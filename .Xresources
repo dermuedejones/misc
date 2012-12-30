@@ -22,4 +22,4 @@ URxvt.tabbed.secondaryScroll: true
 URxvt.tabbed.font: xft:Bitstream Vera Sans Mono:pixelsize=12
 URxvt*inheritPixmap: true 
 URxvt*shading: 70
-URxvt.iconFile: ~/.config/awesome/themes/jones/shell-icon.png
+URxvt.iconFile: /home/jones/.config/awesome/themes/jones/shell-icon.png
